@@ -14,7 +14,7 @@ function chooseRandomGif(res) {
 }
 
 function createImage(url, searchTerm) {
-    return `<img src="${url}" alt="${searchTerm}">` //search term for alt
+    return `<img src="${url}" alt="${searchTerm}">`
 }
 
 $("#delete").on("click", function () {
