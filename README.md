@@ -1,5 +1,5 @@
 # Giphy Party
-Rithm School Project
+[Rithm School](https://www.rithmschool.com/) Project
 
 ## Tools
 API: [developers.giphy.com](https://developers.giphy.com/docs/api)
